@@ -15,7 +15,7 @@ headers = {
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'cross-site',
     'sec-fetch-user': '?1',
-    'upgrade-insecure-'requests': '1',
+    'upgrade-insecure-'requests': '1'
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A',
 }
 
